@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Liu"
+title: "Jian Liu(刘健)"
 excerpt: ""
 author_profile: true
 redirect_from: 
