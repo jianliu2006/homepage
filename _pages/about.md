@@ -71,7 +71,7 @@ Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2, Top)
   
 [Computational Object-Wrapping Rope Nets](https://dl.acm.org/doi/10.1145/3476829)
 
-**Jian Liu**, Shiqing Xin*, Xifeng Gao, Kaihang Gao, Kai Xu, Baoquan Chen, Changhe Tu*
+**Jian Liu**, Shiqing Xin\*, Xifeng Gao, Kaihang Gao, Kai Xu, Baoquan Chen, Changhe Tu\*
 
 ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 </div>
