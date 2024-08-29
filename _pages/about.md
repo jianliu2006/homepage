@@ -88,7 +88,7 @@ ICRA 2018. (CCF-B)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2014</div><img src='images/Caging_loops2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2014</div><img src='images/mendable_consistent_orientation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Mendable consistent orientation of point clouds](https://www.sciencedirect.com/science/article/abs/pii/S0010448514001006)
