@@ -88,6 +88,16 @@ ICRA 2018. (CCF-B)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2014</div><img src='images/Caging_loops2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Mendable consistent orientation of point clouds](https://www.sciencedirect.com/science/article/abs/pii/S0010448514001006)
+
+**Jian Liu**, [Junjie Cao](https://jjcao.github.io/index.html)<sup>\*</sup>, Xiuping Liu, Jun Wang, Xiaochao Wang, Xiquan Shi
+Computer-Aided Design, Volume 55, 2018. (SCI, CCF-B, JCR2, Top)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
