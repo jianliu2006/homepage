@@ -44,6 +44,19 @@ ICCV 2023
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/AffordPose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+
+Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), Jian Liu*
+
+Computer Aided Geometric Design 2024
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
