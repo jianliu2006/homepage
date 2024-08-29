@@ -77,6 +77,17 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2018</div><img src='images/Computational_Object_Wrapping_Rope_Nets.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Caging Loops in Shape Embedding Space: Theory and Computation](https://arxiv.org/pdf/1807.11661)
+
+**Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)<sup>\*</sup>, Zengfu Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Baoquan Chen](https://baoquanchen.info/)
+
+ICRA 2018. (CCF-B)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
