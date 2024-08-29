@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), Jian Liu*
 
-Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2，Top)
+Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
@@ -62,7 +62,7 @@ ICCV 2023. (CCF-A)
 
 Shiyao Wang, Xiuping Liu, **Jian Liu**, Shuahua Li, Junjie Cao*
 
-Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2，Top)
+Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
