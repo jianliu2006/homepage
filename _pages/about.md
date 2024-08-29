@@ -82,7 +82,7 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
   
 [Caging Loops in Shape Embedding Space: Theory and Computation](https://arxiv.org/pdf/1807.11661)
 
-**Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)<sup>\*</sup>, Zengfu Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Baoquan Chen](https://baoquanchen.info/)
+**Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), Zengfu Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Baoquan Chen](https://baoquanchen.info/)
 
 ICRA 2018. (CCF-B)
 </div>
