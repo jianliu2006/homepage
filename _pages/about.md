@@ -66,6 +66,17 @@ Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2021</div><img src='images/Deep_patch_based_global_normal_orientation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Computational Object-Wrapping Rope Nets](https://dl.acm.org/doi/10.1145/3476829)
+
+**Jian Liu**, Shiqing Xin*, Xifeng Gao, Kaihang Gao, Kai Xu, Baoquan Chen, Changhe Tu*
+
+ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
