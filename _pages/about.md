@@ -28,6 +28,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+
+Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), Jian Liu*
+
+Computer Aided Geometric Design 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AffordPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,18 +55,16 @@ ICCV 2023
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2022</div><img src='images/Deep_patch_based_global_normal_orientation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+[Deep patch based global normal orientation](https://www.sciencedirect.com/science/article/abs/pii/S0010448522000598)
 
-[Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+Shiyao Wang, Xiuping Liu, **Jian Liu**, Shuahua Li, Junjie Cao*
 
-Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), Jian Liu*
-
-Computer Aided Geometric Design 2024
+Computer-Aided Design 2022
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
