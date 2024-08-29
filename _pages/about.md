@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AffordPose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AffordPose.png' alt="sym" width="160" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](https://arxiv.org/pdf/2309.08942)
@@ -44,7 +44,7 @@ ICCV 2023
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="160" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
