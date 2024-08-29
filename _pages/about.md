@@ -44,7 +44,7 @@ Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
 
 [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](https://arxiv.org/pdf/2309.08942)
 
-Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/), [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), Jian Liu*
+Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), Jian Liu<sup>\*</sup>
 
 ICCV 2023. (CCF-A)
 
@@ -60,7 +60,7 @@ ICCV 2023. (CCF-A)
   
 [Deep patch based global normal orientation](https://www.sciencedirect.com/science/article/abs/pii/S0010448522000598)
 
-Shiyao Wang, Xiuping Liu, **Jian Liu**, Shuahua Li, Junjie Cao*
+Shiyao Wang, Xiuping Liu, **Jian Liu**, Shuahua Li, [Junjie Cao](https://jjcao.github.io/index.html)*
 
 Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2, Top)
 </div>
