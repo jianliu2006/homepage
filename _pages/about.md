@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   
 [Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
 
-Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), Jian Liu*
+Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), **Jian Liu**<sup>\*</sup>
 
 Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
 </div>
@@ -44,7 +44,7 @@ Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
 
 [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](https://arxiv.org/pdf/2309.08942)
 
-Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), Jian Liu<sup>\*</sup>
+Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), **Jian Liu**<sup>\*</sup>
 
 ICCV 2023. (CCF-A)
 
