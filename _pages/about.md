@@ -77,7 +77,7 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2018</div><img src='images/Caging_loops2.png' alt="sym" width="100%" height="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2018</div><img src='images/Caging_loops2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Caging Loops in Shape Embedding Space: Theory and Computation](https://arxiv.org/pdf/1807.11661)
