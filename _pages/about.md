@@ -66,7 +66,7 @@ Computer-Aided Design, Volume 150, 2022. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2021</div><img src='images/Deep_patch_based_global_normal_orientation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2021</div><img src='images/Computational_Object_Wrapping_Rope_Nets.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Computational Object-Wrapping Rope Nets](https://dl.acm.org/doi/10.1145/3476829)
