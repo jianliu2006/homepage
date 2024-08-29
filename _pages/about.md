@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/pdf/2309.08942))
 
-Juntao Jian, Xiuping Liu, Manyi Li*, Ruizhen Hu, Jian **Jian Liu***
+Juntao Jian, Xiuping Liu, Manyi Li, [Ruizhen Hu]([https://csse.szu.edu.cn/staff/ruizhenhu/]), Jian Liu
 
 ICCV 2023
 
