@@ -104,7 +104,7 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
   
 [3D grasp saliency analysis via deep shape correspondence](https://www.sciencedirect.com/science/article/abs/pii/S0167839620300881)
 
-Lina Zhang, Shiyao Wang<sup>\*<\sup>, Jun Zhou, **Jian Liu**, Chungang Zhu
+Lina Zhang, Shiyao Wang<sup>\*</sup>, Jun Zhou, **Jian Liu**, Chungang Zhu
 
 Computer-Aided Design, Volume 81, 2020. (SCI, CCF-B, JCR2, Top)
 </div>
