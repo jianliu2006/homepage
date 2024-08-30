@@ -106,7 +106,7 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 
 Lina Zhang, Shiyao Wang<sup>\*</sup>, Jun Zhou, **Jian Liu**, Chungang Zhu
 
-Computer-Aided Design, Volume 81, 2020. (SCI, CCF-B, JCR2, Top)
+Computer Aided Geometric Design, Volume 81, 2020. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
