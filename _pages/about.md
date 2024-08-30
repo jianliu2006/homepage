@@ -53,7 +53,7 @@ ICCV 2023. (CCF-A)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/Deep_patch_based_global_normal_orientation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/ost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379191)
