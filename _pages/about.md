@@ -39,7 +39,7 @@ Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCA 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCA 2024</div><img src='images/JOCA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Construction and application of 3D dataset of human grasping objects](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
