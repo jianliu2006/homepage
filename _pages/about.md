@@ -99,6 +99,17 @@ ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2020</div><img src='images/graspSaliency_cadg2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[3D grasp saliency analysis via deep shape correspondence](https://www.sciencedirect.com/science/article/abs/pii/S0167839620300881)
+
+Lina Zhang, Shiyao Wang<sup>\*<\sup>, Jun Zhou, **Jian Liu**, Chungang Zhu
+
+Computer-Aided Design, Volume 81, 2020. (SCI, CCF-B, JCR2, Top)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2018</div><img src='images/Caging_loops2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
