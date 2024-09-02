@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jian Liu (刘健) is a research assistant at the software college, National University of Defense Technology (SUT). He earned his Ph.D in software engineering in 2022 from Shandong University(SDUT). From 2016 to 2012, He worked in the IRC lab, supervised by Changhe Tu. During 2022-2024, he conducted postdoctoral research at the institute of Computer Aided Design Graphics and Visualization at the Schoole of Software at Tsinghua University, working with Junhai Yong. 
+Jian Liu (刘健) is a research assistant at the software college, National University of Defense Technology (SUT). He earned his Ph.D in software engineering in 2022 from Shandong University(SDUT). From 2016 to 2022, He worked in the IRC lab, supervised by Changhe Tu. During 2022-2024, he conducted postdoctoral research at the institute of Computer Aided Design Graphics and Visualization at the Schoole of Software at Tsinghua University, working with Junhai Yong. 
 
 Jian is currently leading the iGRAPE Lab @ NUDT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & navigation, etc. For more details, please refer to our publications.
 
