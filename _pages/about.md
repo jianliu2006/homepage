@@ -17,16 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jian Liu (刘健) is a research assistant at the software college, National University of Defense Technology (SUT). He earned his Ph.D in software engineering in 2022 from Shandong University(SDUT). From 2016 to 2022, He worked in the IRC lab, supervised by Changhe Tu. During 2022-2024, he conducted postdoctoral research at the institute of Computer Aided Design Graphics and Visualization at the Schoole of Software at Tsinghua University, working with Junhai Yong. 
+Jian Liu (刘健) is a research assistant at the software college, Shenyang University of Technology (SUT). He earned his Ph.D in software engineering in 2022 from Shandong University(SDUT). From 2016 to 2022, He worked in the IRC lab, supervised by Changhe Tu. During 2022-2024, he conducted postdoctoral research at the institute of Computer Aided Design Graphics and Visualization at the Schoole of Software at Tsinghua University, working with Junhai Yong. 
 
-Jian is currently leading the iGRAPE Lab @ NUDT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & navigation, etc. For more details, please refer to our publications.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Jian is currently jointing the software Lab @ SUT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & grasping, etc. For more details, please refer to my publications.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University, Shenyang University of Technology, as a lecturer.
+- *2022.07*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University as a postdoctoral fellow.
 
 # 📝 Publications 
 
