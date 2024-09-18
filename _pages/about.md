@@ -35,6 +35,8 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), **Jian Liu**<sup>\*</sup>
 
 Computer Aided Geometric Design, Volume 111, 2024. (SCI, CCF-B, JCR2, Top)
+
+project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
 </div>
 </div>
 
