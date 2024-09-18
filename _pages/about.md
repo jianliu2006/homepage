@@ -30,7 +30,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning
+**Physics-aware iterative learning and prediction of saliency map for bimanual grasp planning**
 
 Shiyao Wang, Xiuping Liu, [Charlie C.L. Wang](https://mewangcl.github.io/), **Jian Liu**<sup>\*</sup>
 
@@ -43,7 +43,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S01
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCA 2024</div><img src='images/JOCA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Construction and application of 3D dataset of human grasping objects
+**Construction and application of 3D dataset of human grasping objects**
 
 **Jian Liu**, Chenchen You, Jinming Cao, Qiong Zeng, [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)<sup>\*</sup>
 
@@ -56,7 +56,7 @@ project page / [paper](https://d.wanfangdata.com.cn/periodical/jsjyy202401035)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AffordPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose
+**AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose**
 
 Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), **Jian Liu**<sup>\*</sup>
 
@@ -74,7 +74,7 @@ ICCV 2023. (CCF-A)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/ost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds
+**OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds**
 
 Xiantong Zhao, Yinan Han, Shenjing Tian<sup>\*</sup>,**Jian Liu**, Xiuping Liu<sup>\*</sup>
 
@@ -87,7 +87,7 @@ project page / [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2022</div><img src='images/Deep_patch_based_global_normal_orientation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Deep patch based global normal orientation
+**Deep patch based global normal orientation**
 
 Shiyao Wang, Xiuping Liu, **Jian Liu**, Shuahua Li, [Junjie Cao](https://jjcao.github.io/index.html)*
 
@@ -100,7 +100,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S00
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2021</div><img src='images/Computational_Object_Wrapping_Rope_Nets.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Computational Object-Wrapping Rope Nets
+**Computational Object-Wrapping Rope Nets**
 
 **Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)<sup>\*</sup>, [Xifeng Gao](https://gaoxifeng.github.io/), Kaihang Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Baoquan Chen](https://baoquanchen.info/), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)<sup>\*</sup>
 
@@ -113,7 +113,7 @@ project page / [paper](https://dl.acm.org/doi/10.1145/3476829)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2020</div><img src='images/graspSaliency_cadg2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-3D grasp saliency analysis via deep shape correspondence
+**3D grasp saliency analysis via deep shape correspondence**
 
 Lina Zhang, Shiyao Wang<sup>\*</sup>, Jun Zhou, **Jian Liu**, Chungang Zhu
 
@@ -126,7 +126,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S01
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2018</div><img src='images/Caging_loops2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Caging Loops in Shape Embedding Space: Theory and Computation
+**Caging Loops in Shape Embedding Space: Theory and Computation**
 
 **Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), Zengfu Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Baoquan Chen](https://baoquanchen.info/)
 
@@ -139,7 +139,7 @@ project page / [paper](https://arxiv.org/pdf/1807.11661)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2014</div><img src='images/mendable_consistent_orientation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Mendable consistent orientation of point clouds
+**Mendable consistent orientation of point clouds**
 
 **Jian Liu**, [Junjie Cao](https://jjcao.github.io/index.html)<sup>\*</sup>, Xiuping Liu, Jun Wang, Xiaochao Wang, Xiquan Shi
 Computer-Aided Design, Volume 55, 2018. (SCI, CCF-B, JCR2, Top)
