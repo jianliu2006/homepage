@@ -130,18 +130,20 @@ Computer-Aided Design, Volume 55, 2018. (SCI, CCF-B, JCR2, Top)
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+-->
+  
 # 📖 Educations
 - *2016.09 - 2022.03*, Doctor, Software Engineering, Shandong University, Shandong.
 - *2021.09 - 2014.07*, Master, computational mathematics, Dalian University of Technology, Dalian. 
 - *2016.09 - 2021.07*, Undergraduate, Mathematics and Applied Mathematics & Software Engineering, Dalian Jiaotong University, Dalian.
   
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 <!--# 💻 Internships2-->
 <!--% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
