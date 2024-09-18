@@ -104,7 +104,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S00
 
 **Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)<sup>\*</sup>, [Xifeng Gao](https://gaoxifeng.github.io/), Kaihang Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Baoquan Chen](https://baoquanchen.info/), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)<sup>\*</sup>
 
-ACM Transactions on Graphics, Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
+ACM Transactions on Graphics(Proceedings of SIGGRAPH 2022), Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
 
 project page / [paper](https://dl.acm.org/doi/10.1145/3476829)
 </div>
