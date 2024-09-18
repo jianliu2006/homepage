@@ -59,12 +59,11 @@ Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</su
 ICCV 2023. (CCF-A)
 
 <!--[**Project**](https://github.com/GentlesJan/AffordPose) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/ost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
